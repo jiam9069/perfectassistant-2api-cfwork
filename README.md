@@ -54,7 +54,7 @@
 
 ### 🎯 懒人一键部署（30秒搞定！）
 
-[![部署到 Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lza6/perfectassistant-2api-cfwork)
+[![部署到 Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jiam9069/perfectassistant-2api-cfwork)
 
 1. **点击上面按钮** 🔼
 2. **登录 Cloudflare 账号** 🔑
@@ -65,7 +65,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/lza6/perfectassistant-2api-cfwork.git
+git clone https://github.com/jiam9069/perfectassistant-2api-cfwork.git
 cd perfectassistant-2api-cfwork
 
 # 2. 安装 Wrangler CLI
@@ -350,7 +350,7 @@ const CONFIG = {
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/lza6/perfectassistant-2api-cfwork.git
+git clone https://github.com/jiam9069/perfectassistant-2api-cfwork.git
 
 # 2. 安装依赖
 npm install
@@ -411,9 +411,9 @@ wrangler deploy
 
 ## 📞 联系我们
 
-- **GitHub**: [lza6/perfectassistant-2api-cfwork](https://github.com/lza6/perfectassistant-2api-cfwork)
-- **问题反馈**: [GitHub Issues](https://github.com/lza6/perfectassistant-2api-cfwork/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/lza6/perfectassistant-2api-cfwork/discussions)
+- **GitHub**: [lza6/perfectassistant-2api-cfwork](https://github.com/jiam9069/perfectassistant-2api-cfwork)
+- **问题反馈**: [GitHub Issues](https://github.com/jiam9069/perfectassistant-2api-cfwork/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/jiam9069/perfectassistant-2api-cfwork/discussions)
 
 ## 🗺️ 项目路线图
 
